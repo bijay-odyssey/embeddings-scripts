@@ -5,7 +5,7 @@ All scripts use **Sentence Transformers** and are designed to be lightweight, be
 
 ---
 
-## ** File Descriptions**
+## **File Descriptions**
 
 ### **1. `similarity_search.py`**
 
@@ -50,7 +50,7 @@ A small CLI utility that:
 
 ---
 
-## ** Requirements**
+## **Requirements**
 
 Install dependencies:
 
@@ -60,7 +60,7 @@ pip install sentence-transformers scikit-learn numpy matplotlib
 
 ---
 
-## ** Usage**
+## **Usage**
 
 ### Run any script:
 
@@ -72,7 +72,7 @@ python sentence_similarity.py
 ```
 ---
 
-## ** Future Ideas (Contributions Welcome!)**
+## **Future Ideas (Contributions Welcome!)**
 
 * Add FAISS vector indexing for fast nearest-neighbor search
 * Add support for local embeddings (e5, bge, jina)
