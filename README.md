@@ -71,6 +71,10 @@ python embedding_visualizer.py
 python sentence_similarity.py
 ```
 ---
+## **Embedding Visualized in 2 dimensions**
+<img width="1920" height="967" alt="embeddings_visualized" src="https://github.com/user-attachments/assets/9c7a0aab-8d98-4dfc-bb0f-ff320516c64a" />
+
+---
 
 ## **Future Ideas (Contributions Welcome!)**
 
