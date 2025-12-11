@@ -81,7 +81,7 @@ python sentence_similarity.py
 
 ---
 
-## **📄 License**
+## **License**
 
 MIT License — free to use, modify, and distribute.
 
