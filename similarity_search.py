@@ -8,11 +8,16 @@ model_large = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
 
 # Sample texts
 sample_texts = [
-    "The sky is blue today.",
-    "I love playing the guitar.",
-    "Machine learning helps computers learn from data.",
-    "Pizza is my favorite food.",
-    "Deep learning requires large neural networks"
+    "I am a self-taught data scientist with hands-on experience in building real-world ML systems.",
+    "I developed a fraud detection pipeline on the IEEE-CIS dataset using XGBoost and SHAP.",
+    "I created a retail price forecasting model using LightGBM and Prophet with 1.7M+ rows.",
+    "I built a customer churn prediction web app using Flask, Random Forest, and SQLite.",
+    "I specialize in EDA, feature engineering, statistical analysis, and model tuning.",
+    "I have experience with anomaly detection using Isolation Forest, LOF, DBSCAN, and clustering.",
+    "I am learning about LLMs, embeddings, vector search, and RAG pipelines.",
+    "I use Python, SQL, and Scikit-learn extensively in my ML workflows.",
+    "I integrate SHAP for explainability in my ML models.",
+    "I enjoy learning deep learning, semantic embeddings, and vector similarity search."
 ]
 
 def get_top_k(input_vec, db_vectors, k=3):
@@ -49,4 +54,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
     
